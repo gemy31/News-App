@@ -1,0 +1,17 @@
+{
+  "dailyNews" : "Daily News",
+  "pickYourCategoryOfInterest" : "Pick your Category \n of Interest",
+  "sports" : "Sports",
+  "business": "Business",
+  "health" : "Health",
+  "technology" : "Technology",
+  "entertainment" : "Entertainment",
+  "science" : "Science",
+  "general" : "General",
+  "newsApp" : "News App!",
+  "categories" : "Categories",
+  "settings" : "Settings",
+  "language" : "Language",
+  "arabic" : "Arabic",
+  "english" : "English"
+}

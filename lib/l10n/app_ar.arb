@@ -1,0 +1,17 @@
+{
+  "dailyNews" : "اخبار اليوم",
+  "pickYourCategoryOfInterest" : "اختر فئه اهتماماتك",
+  "sports" : "الرياضه",
+  "business": "الاعمال",
+  "health" : "الصحه",
+  "technology" : "التكنولوجيا",
+  "entertainment" : "التسليه",
+  "science" : "العلوم",
+  "general" : "العامه",
+  "newsApp" : "اخبار اليوم!",
+  "categories" : "الفئات",
+  "settings" : "الاعدادات",
+  "language" : "اللغه",
+  "arabic" : "العربيه",
+  "english" : "الانجليزيه"
+}
